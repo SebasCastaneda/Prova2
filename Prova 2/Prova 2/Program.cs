@@ -10,9 +10,11 @@ namespace Prova_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ciao");
-            Console.ReadKey();
-              
+            
+
+
+            //Ciao amici
+            
         }
     }
 }
