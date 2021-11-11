@@ -10,10 +10,7 @@ namespace Prova_2
     {
         static void Main(string[] args)
         {
-            
-
-
-            //Ciao amici
+            ////ciao
             
         }
     }
