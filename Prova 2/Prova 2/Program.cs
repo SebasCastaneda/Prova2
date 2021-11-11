@@ -12,6 +12,7 @@ namespace Prova_2
         {
             Console.WriteLine("Ciao");
             Console.ReadKey();
+            //no
             
         }
     }
