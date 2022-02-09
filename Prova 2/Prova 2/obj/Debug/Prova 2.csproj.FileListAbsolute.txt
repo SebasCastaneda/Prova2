@@ -1,7 +1,0 @@
-C:\Users\paolazetty\source\Prova Git\Prova 2\Prova 2\bin\Debug\Prova 2.exe.config
-C:\Users\paolazetty\source\Prova Git\Prova 2\Prova 2\bin\Debug\Prova 2.exe
-C:\Users\paolazetty\source\Prova Git\Prova 2\Prova 2\bin\Debug\Prova 2.pdb
-C:\Users\paolazetty\source\Prova Git\Prova 2\Prova 2\obj\Debug\Prova 2.csprojAssemblyReference.cache
-C:\Users\paolazetty\source\Prova Git\Prova 2\Prova 2\obj\Debug\Prova 2.csproj.CoreCompileInputs.cache
-C:\Users\paolazetty\source\Prova Git\Prova 2\Prova 2\obj\Debug\Prova 2.exe
-C:\Users\paolazetty\source\Prova Git\Prova 2\Prova 2\obj\Debug\Prova 2.pdb
