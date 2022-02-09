@@ -1,7 +1,0 @@
-C:\Users\paolazetty\source\lav\usiamo\usiamo\bin\Debug\usiamo.exe.config
-C:\Users\paolazetty\source\lav\usiamo\usiamo\bin\Debug\usiamo.exe
-C:\Users\paolazetty\source\lav\usiamo\usiamo\bin\Debug\usiamo.pdb
-C:\Users\paolazetty\source\lav\usiamo\usiamo\obj\Debug\usiamo.csprojAssemblyReference.cache
-C:\Users\paolazetty\source\lav\usiamo\usiamo\obj\Debug\usiamo.csproj.CoreCompileInputs.cache
-C:\Users\paolazetty\source\lav\usiamo\usiamo\obj\Debug\usiamo.exe
-C:\Users\paolazetty\source\lav\usiamo\usiamo\obj\Debug\usiamo.pdb
